@@ -1,21 +1,27 @@
-
 package entidades;
 
-
 public class Control {
-    
- private Producto producto;
 
-public static void mantenimientoyControl(){
-    
-}  
+    private Producto producto;
 
-public static void actualizacion(){
-    
-}
+    public Producto getProducto() {
+        return producto;
+    }
 
-public static void depuracion (){
-    
-}
+    public void setProducto(Producto producto) {
+        this.producto = producto;
+    }
+
+    public static void mantenimientoyControl() {
+
+    }
+
+    public static void actualizacion() {
+
+    }
+
+    public static void depuracion() {
+
+    }
 
 }
