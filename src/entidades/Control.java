@@ -1,14 +1,21 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package entidades;
 
-/**
- *
- * @author Beler
- */
+
 public class Control {
     
+ private Producto producto;
+
+public static void mantenimientoyControl(){
+    
+}  
+
+public static void actualizacion(){
+    
+}
+
+public static void depuracion (){
+    
+}
+
 }
