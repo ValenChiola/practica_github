@@ -1,4 +1,4 @@
 # practica_github
  MansoGrupo
-Jose Eduardo G
-
+ Valentino Chiola
+Jose Eduardo
