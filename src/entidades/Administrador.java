@@ -5,10 +5,7 @@
  */
 package entidades;
 
-/**
- *
- * @author Jose y Joana
- */
+
 public class Administrador {
     
     Proveedores proveedores;
