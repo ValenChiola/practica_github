@@ -13,6 +13,8 @@ public class Administrador {
     
     Proveedores proveedores;
 
+    private String prueba;
+    
     public Administrador() {
     }
 
