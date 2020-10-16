@@ -1,3 +1,7 @@
 # practica_github
  MansoGrupo
- Belen Giunta 
+ Valentino Chiola
+Jose Eduardo
+ Belen Giunta
+Gonzalo Tapia
+Nacho Ruiz
