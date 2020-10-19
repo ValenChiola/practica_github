@@ -5,10 +5,7 @@
  */
 package entidades;
 
-/**
- *
- * @author Usuario
- */
+
 public class Inventario {
     
     private String numSolicitud;
