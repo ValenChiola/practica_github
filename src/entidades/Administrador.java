@@ -5,13 +5,11 @@
  */
 package entidades;
 
-/**
- *
- * @author Jose y Joana
- */
+
 public class Administrador {
-    
+
     Proveedores proveedores;
+
 
     public Administrador() {
     }
@@ -28,7 +26,12 @@ public class Administrador {
     public String toString() {
         return "Administrador{" + "proveedores=" + proveedores + '}';
     }
-    
-    
-    
+
+    /*jose-proveedores administradores
+belen control
+gonza producto
+valentino inventario existtencias
+enzo ventas almacen
+nacho pedidos
+     */
 }
