@@ -14,6 +14,7 @@ public class Proveedores {
     private int cantidad;
     private Producto producto;
     private String nombreProveedor;
+    
 
     public Proveedores() {
     }

@@ -9,6 +9,7 @@ public class Producto {
     private String ID;
     private String nombre, proveedor;
     private int precio, cantidad;
+    private int qr;
     
     
     //Construcctor Vacio
