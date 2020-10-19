@@ -7,11 +7,11 @@ package entidades;
 
 
 public class Administrador {
-    
+
     Proveedores proveedores;
 
     private String prueba;
-    
+
     public Administrador() {
     }
 
@@ -27,7 +27,12 @@ public class Administrador {
     public String toString() {
         return "Administrador{" + "proveedores=" + proveedores + '}';
     }
-    
-    
-    
+
+    /*jose-proveedores administradores
+belen control
+gonza producto
+valentino inventario existtencias
+enzo ventas almacen
+nacho pedidos
+     */
 }
