@@ -5,10 +5,6 @@
  */
 package entidades;
 
-/**
- *
- * @author Acer
- */
 public class Almacen {
     private String nombreEmpresa;
     private String direccion;
