@@ -5,10 +5,6 @@
  */
 package git;
 
-/**
- *
- * @author Usuario
- */
 public class Git {
 
     /**

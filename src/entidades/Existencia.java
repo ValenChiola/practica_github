@@ -5,12 +5,7 @@
  */
 package entidades;
 
-import entidades.Producto;
 
-/**
- *
- * @author Usuario
- */
 public class Existencia {
     
     private Producto p;
