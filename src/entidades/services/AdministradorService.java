@@ -9,7 +9,7 @@ import entidades.Producto;
 
 public class AdministradorService {
     
-    public void mantenimientoYControl(){
+    public void mantenimientoYControl(Producto p){
         
     }
     public void compra(int cantidad, Producto producto, String nombreP){
